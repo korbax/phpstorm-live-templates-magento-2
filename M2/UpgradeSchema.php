@@ -1,3 +1,4 @@
+<?php
 namespace $NAMESPACE$\Setup;
 
 use Magento\Framework\DB\Ddl\Table;
